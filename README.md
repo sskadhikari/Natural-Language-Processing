@@ -1,2 +1,3 @@
 # Natural-Language-Processing
-The project is based on NLP. In this NLP project we are doing text classification, Text classification play very  
+ NLP is a way for computers to analyze, understand, and derive meaning from human language in a smart and useful way.In simple terms, Natural Language Processing, or NLP, is the sub-field of AI that is focused on enabling computers to understand and process human languages.The latest advances in NLP are easily accessible through open source Python libraries like spaCy, textacy and neuralcoref. What you can do with just a few lines of python is amazing.
+This project is based on NLP. In this NLP project we are doing text classification, Text classification is vital topic in NLP. We can assume that each sentence in English is a separate thought or idea. It will be a lot easier to write a program to understand a single sentence than to understand a whole paragraph. 
